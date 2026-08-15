@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/lenovo/robotics_phase1/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
