@@ -1,1 +1,20 @@
-buid/
+# CMake build output
+/build/
+/cmake-build-*/
+
+# Compiled binaries and object files
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.exe
+
+# IDE and editor files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
