@@ -15,10 +15,10 @@ The repository includes a CMake-based C++ project.
 ```bash
 cmake -S . -B build
 cmake --build build
-./build/<executable-name>
+./build/tracker
 ```
 
-Replace `<executable-name>` with the executable target defined in the project’s `CMakeLists.txt`.
+The executable target is `tracker`.
 
 ## Project status
 
